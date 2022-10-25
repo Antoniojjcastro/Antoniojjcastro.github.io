@@ -60,7 +60,7 @@ body{
 
 .parallax {
     height: 200px;
-    background-image: url('/asset/back-code.JPG');
+    background-image: url('/asset/back-code.jpg');
     background-size: cover;
     background-attachment: fixed;
 }
